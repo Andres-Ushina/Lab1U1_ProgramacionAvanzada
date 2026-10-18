@@ -1,0 +1,11 @@
+.idea/
+*.iml
+.vscode/
+Thumbs.db
+desktop.ini
+~$*
+build/
+.gradle/
+target/
+node_modules/
+out/
